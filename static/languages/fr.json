@@ -1,12 +1,12 @@
 {
-  "heading": "Le chômage de longue durée est-il un problème dans l’UE27 ?",
-  "subheading": "En 2023, en moyenne, 2,1 % de la population active de l’UE27 était au chômage depuis 12 mois ou plus. Cela représente une baisse de 32 % par rapport au niveau de 2018 (3,1 %).",
+  "heading": "Le chômage de longue durée est-il un véritable problème dans l’UE ?",
+  "subheading": "En 2023, en moyenne, 2,1 % de la population active des 27 États membres était touchée par le chômage de longue durée. Cela représente une baisse de 32 % par rapport à 2018 (3,1 %).",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "de la main d'oeuvre",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Le taux de chômage de longue durée représente le pourcentage de personnes au chômage depuis 12 mois ou plus au sein de la population active. La tranche d'âge concernée est celle des 15-74 ans.",
+  "textNote": "Le taux de chômage de longue durée est le pourcentage de la population active âgée de 15 à 74 ans qui est au chômage depuis 12 mois ou plus.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations"

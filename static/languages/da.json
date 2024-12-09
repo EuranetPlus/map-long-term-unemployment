@@ -1,13 +1,13 @@
 {
-  "heading": "Er langtidsarbejdsløshed et problem i EU27?",
-  "subheading": "I 2023 var i gennemsnit 2,1 % af arbejdsstyrken i EU27 arbejdsløse i 12 måneder eller mere. Det er et fald på 32 % i forhold til niveauet fra 2018 (3,1 %).",
+  "heading": "Er langtidsarbejdsløshed et reelt problem i EU?",
+  "subheading": "I 2023 var i gennemsnit 2,1 % af den erhvervsaktive befolkning i de 27 medlemslande ramt af langtidsarbejdsløshed.  Dette er et fald på 32 % i forhold til 2018 (3,1 %).",
   "legend1": "Ingen tilgængelige data",
   "tooltip1": "af arbejdsstyrken",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Langtidsledigheden repræsenterer procentdelen af arbejdsløse i 12 måneder eller mere inden for arbejdsstyrken. Aldersgruppen i fokus er 15-74 år.",
-  "textDataAccess": "Få adgang til data",
+  "textNote": "Langtidsledigheden er den procentdel af den erhvervsaktive befolkning mellem 15 og 74 år, der har været arbejdsløs i 12 måneder eller mere.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=da",
   "textCountryClick": "Klik for mere info"
 }

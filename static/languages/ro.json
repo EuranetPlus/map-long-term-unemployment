@@ -1,12 +1,12 @@
 {
-  "heading": "Este șomajul de lungă durată o problemă în UE27?",
-  "subheading": "În 2023, în medie, 2,1% din forța de muncă din UE27 a fost șomer timp de 12 luni sau mai mult. Aceasta marchează o scădere de 32% față de nivelul din 2018 (3,1%).",
+  "heading": "Este șomajul de lungă durată o problemă reală în UE?",
+  "subheading": "În 2023, o medie de 2,1% din populația activă a celor 27 de state membre a fost afectată de șomaj pe termen lung.  Aceasta reprezintă o scădere de 32% față de 2018 (3,1%).",
   "legend1": "Nu există date disponibile",
   "tooltip1": "de forta de munca",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Rata șomajului pe termen lung reprezintă procentul de șomeri de 12 luni sau mai mult în cadrul forței de muncă. Grupa de vârstă vizată este 15-74 de ani.",
+  "textNote": "Rata șomajului de lungă durată este procentul populației active cu vârsta cuprinsă între 15 și 74 de ani care este șomer de 12 luni sau mai mult.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Click pentru mai multe informații"

@@ -1,12 +1,12 @@
 {
-  "heading": "La disoccupazione di lunga durata è un problema nell'UE27?",
-  "subheading": "Nel 2023, in media, il 2,1% della forza lavoro nell'UE27 era disoccupata da 12 mesi o più. Ciò segna un calo del 32% rispetto al livello del 2018 (3,1%).",
+  "heading": "La disoccupazione di lunga durata è un problema reale nell'UE?",
+  "subheading": "Nel 2023, una media del 2,1% della popolazione attiva dei 27 Stati membri è stata interessata dalla disoccupazione di lunga durata. Ciò rappresenta un calo del 32% rispetto al 2018 (3,1%).",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "della forza lavoro",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Il tasso di disoccupazione di lunga durata rappresenta la percentuale di persone disoccupate per 12 mesi o più all'interno della forza lavoro. La fascia di età in questione è quella compresa tra 15 e 74 anni.",
+  "textNote": "Il tasso di disoccupazione di lunga durata è la percentuale della popolazione attiva di età compresa tra 15 e 74 anni che è disoccupata da 12 mesi o più.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Clicca per maggiori informazioni"

@@ -1,12 +1,12 @@
 {
-  "heading": "Je li dugotrajna nezaposlenost problem u EU27?",
-  "subheading": "U 2023. prosječno 2,1% radne snage u EU27 bilo je nezaposleno 12 mjeseci ili više. To predstavlja pad od 32% u odnosu na razinu iz 2018. (3,1%).",
+  "heading": "Je li dugotrajna nezaposlenost pravi problem u EU?",
+  "subheading": "Godine 2023. u prosjeku je 2,1% radno sposobnog stanovništva 27 država članica bilo pogođeno dugotrajnom nezaposlenošću.  To predstavlja pad od 32% u odnosu na 2018. (3,1%).",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "radne snage",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Stopa dugotrajne nezaposlenosti predstavlja postotak ljudi nezaposlenih 12 mjeseci ili više unutar radne snage. Dobna skupina u fokusu je 15-74 godine.",
+  "textNote": "Stopa dugotrajne nezaposlenosti je postotak radno aktivnog stanovništva u dobi između 15 i 74 godine koje je nezaposleno 12 mjeseci ili više.",
   "textDataAccess": "Pristupite podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"

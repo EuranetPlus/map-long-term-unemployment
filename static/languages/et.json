@@ -1,12 +1,12 @@
 {
-  "heading": "Kas pikaajaline töötus on EL27 probleem?",
-  "subheading": "2023. aastal oli EL 27 tööjõust keskmiselt 2,1% töötud 12 kuud või kauem. See tähendab 32% langust võrreldes 2018. aasta tasemega (3,1%).",
+  "heading": "Kas pikaajaline töötus on ELis tõeline probleem?",
+  "subheading": "2023. aastal mõjutas pikaajaline töötus 27 liikmesriigi töötavast elanikkonnast keskmiselt 2,1%.  See on 32% langus võrreldes 2018. aastaga (3,1%).",
   "legend1": "Andmed puuduvad",
   "tooltip1": "tööjõust",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "Pikaajalise töötuse määr näitab 12 kuud või kauem töötute protsenti tööjõus. Fookuses on vanuserühm 15-74 eluaastat.",
+  "textNote": "Pikaajalise töötuse määr on 15–74-aastaste töötavate inimeste osakaal, kes on olnud töötud 12 kuud või kauem.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

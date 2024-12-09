@@ -1,12 +1,12 @@
 {
-  "heading": "A tartós munkanélküliség probléma az EU-27-ben?",
-  "subheading": "2023-ban az EU-27-ben átlagosan a munkaerő 2,1%-a volt munkanélküli 12 hónapig vagy tovább. Ez 32%-os csökkenést jelent a 2018-as szinthez (3,1%) képest.",
+  "heading": "Valós probléma a tartós munkanélküliség az EU-ban?",
+  "subheading": "2023-ban a 27 tagállam aktív népességének átlagosan 2,1%-át érintette a tartós munkanélküliség.  Ez 32%-os visszaesést jelent 2018-hoz képest (3,1%).",
   "legend1": "Nincs adat",
   "tooltip1": "a munkaerő",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "A tartós munkanélküliségi ráta a legalább 12 hónapja munkanélküliek százalékos arányát jelenti a munkaerőn belül. A fókuszban lévő korosztály a 15-74 évesek.",
+  "textNote": "A tartós munkanélküliségi ráta a 15 és 74 év közötti aktív népesség azon százaléka, akik legalább 12 hónapja munkanélküliek.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "További információért kattintson"

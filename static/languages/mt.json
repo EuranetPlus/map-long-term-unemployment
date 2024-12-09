@@ -1,12 +1,12 @@
 {
-  "heading": "Il-qgħad fit-tul huwa kwistjoni fl-UE27?",
-  "subheading": "Fl-2023 bħala medja 2.1 % tal-forza tax-xogħol fl-UE27 kienu qiegħda għal 12-il xahar jew aktar. Dan jimmarka tnaqqis ta’ 32% meta mqabbel mal-livell mill-2018 (3.1%).",
+  "heading": "Il-qgħad fit-tul huwa kwistjoni reali fl-UE?",
+  "subheading": "Fl-2023, medja ta’ 2.1% tal-popolazzjoni tax-xogħol tas-27 stat membru kienet affettwata minn qgħad fit-tul.  Dan jirrappreżenta tnaqqis ta’ 32% meta mqabbel mal-2018 (3.1%).",
   "legend1": "Ebda data disponibbli",
   "tooltip1": "tal-forza tax-xogħol",
   "textSourceDescription": "Sors",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Ir-rata ta' qgħad fit-tul tirrappreżenta l-perċentwal ta' nies qiegħda għal 12-il xahar jew aktar fil-forza tax-xogħol. Il-grupp ta' età fil-fokus huwa 15-74 sena.",
+  "textNote": "Ir-rata ta' qgħad fit-tul hija l-perċentwal tal-popolazzjoni tax-xogħol ta' bejn il-15 u l-74 sena li ilhom bla xogħol għal 12-il xahar jew aktar.",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Ikklikkja għal aktar informazzjoni"

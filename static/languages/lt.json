@@ -1,12 +1,12 @@
 {
-  "heading": "Ar ilgalaikis nedarbas yra ES 27 problema?",
-  "subheading": "2023 m. ES 27 vidutiniškai 2,1 % darbo jėgos buvo bedarbiai 12 mėnesių ar ilgiau. Tai reiškia 32% nuosmukį, palyginti su 2018 m. lygiu (3,1%).",
+  "heading": "Ar ilgalaikis nedarbas yra tikra problema ES?",
+  "subheading": "2023 m. ilgalaikis nedarbas nukentėjo vidutiniškai 2,1 % 27 valstybių narių dirbančių gyventojų.  Tai reiškia 32 % kritimą, palyginti su 2018 m. (3,1 %).",
   "legend1": "Nėra duomenų",
   "tooltip1": "darbo jėgos",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Ilgalaikio nedarbo lygis parodo 12 mėnesių ar ilgiau nedirbančių žmonių procentą darbo jėgoje. Dėmesio centre yra 15–74 metų amžiaus grupė.",
+  "textNote": "Ilgalaikio nedarbo lygis – tai procentas 15–74 metų amžiaus dirbančių gyventojų, kurie buvo bedarbiai 12 mėnesių ar ilgiau.",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"

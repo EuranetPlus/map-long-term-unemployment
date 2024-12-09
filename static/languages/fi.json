@@ -1,12 +1,12 @@
 {
-  "heading": "Onko pitkäaikaistyöttömyys ongelma EU-27:ssä?",
-  "subheading": "Vuonna 2023 EU27:n työvoimasta keskimäärin 2,1 prosenttia oli työttömänä vähintään 12 kuukautta. Tämä merkitsee 32 prosentin laskua vuoden 2018 tasosta (3,1 %).",
+  "heading": "Onko pitkäaikaistyöttömyys todellinen ongelma EU:ssa?",
+  "subheading": "Vuonna 2023 27 jäsenvaltion työväestöstä keskimäärin 2,1 prosenttia kärsi pitkäaikaistyöttömyydestä.  Tämä tarkoittaa 32 prosentin laskua vuoteen 2018 verrattuna (3,1 %).",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "työvoimasta",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huom",
-  "textNote": "Pitkäaikaistyöttömyysaste kuvaa vähintään 12 kuukautta työttömänä olevien prosenttiosuutta työvoimasta. Ikäryhmä on 15-74-vuotiaat.",
+  "textNote": "Pitkäaikaistyöttömyysaste on vähintään 12 kuukautta työttömänä olleiden 15–74-vuotiaiden työväestön osuus.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=fi",
   "textCountryClick": "Napsauta saadaksesi lisätietoja"

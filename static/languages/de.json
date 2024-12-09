@@ -1,12 +1,12 @@
 {
-  "heading": "Ist Langzeitarbeitslosigkeit in der EU27 ein Problem?",
-  "subheading": "Im Jahr 2023 waren in der EU27 durchschnittlich 2,1 % der Erwerbsbevölkerung 12 Monate oder länger arbeitslos. Dies entspricht einem Rückgang von 32 % gegenüber dem Stand von 2018 (3,1 %).",
+  "heading": "Ist Langzeitarbeitslosigkeit in der EU ein echtes Problem?",
+  "subheading": "Im Jahr 2023 waren in den 27 EU-Ländern durchschnittlich 2,1 Prozent der Erwerbsbevölkerung von Langzeitarbeitslosigkeit betroffen. Dies entspricht einem Rückgang von 32 Prozent im Vergleich zum Jahr 2018 (3,1 Prozent).",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "der Erwerbsbevölkerung",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Langzeitarbeitslosenquote gibt den Prozentsatz der Erwerbstätigen an, die 12 Monate oder länger arbeitslos sind. Im Mittelpunkt steht die Altersgruppe der 15- bis 74-Jährigen.",
+  "textNote": "Die Langzeitarbeitslosenquote gibt den Prozentsatz der erwerbstätigen Bevölkerung im Alter zwischen 15 und 74 Jahren an, der seit mindestens 12 Monaten arbeitslos ist.",
   "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Klicken Sie hier für weitere Informationen"

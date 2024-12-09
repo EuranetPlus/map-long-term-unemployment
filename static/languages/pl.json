@@ -1,12 +1,12 @@
 {
-  "heading": "Czy długotrwałe bezrobocie jest problemem w UE27?",
-  "subheading": "W 2023 r. średnio 2,1% siły roboczej w UE27 było bezrobotnych przez 12 miesięcy lub dłużej. Oznacza to spadek o 32% w porównaniu z poziomem z 2018 r. (3,1%).",
+  "heading": "Czy długotrwałe bezrobocie jest realnym problemem w UE?",
+  "subheading": "W 2023 r. średnio 2,1% pracującej populacji 27 państw członkowskich było dotkniętych długotrwałym bezrobociem. Stanowi to spadek o 32% w porównaniu z 2018 r. (3,1%).",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "siły roboczej",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Długoterminowa stopa bezrobocia przedstawia odsetek osób bezrobotnych od 12 miesięcy lub dłużej w obrębie siły roboczej. Grupa wiekowa, na której się skupiamy, to 15-74 lata.",
+  "textNote": "Stopa długotrwałego bezrobocia to odsetek osób pracujących w wieku od 15 do 74 lat, które są bezrobotne przez co najmniej 12 miesięcy.",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"

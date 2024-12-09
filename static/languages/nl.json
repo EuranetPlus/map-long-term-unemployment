@@ -1,12 +1,12 @@
 {
-  "heading": "Is langdurige werkloosheid een probleem in de EU27?",
-  "subheading": "In 2023 was gemiddeld 2,1% van de beroepsbevolking in de EU27 12 maanden of langer werkloos. Dit is een daling van 32% ten opzichte van het niveau van 2018 (3,1%).",
+  "heading": "Is langdurige werkloosheid een echt probleem in de EU?",
+  "subheading": "In 2023 werd gemiddeld 2,1% van de beroepsbevolking van de 27 lidstaten getroffen door langdurige werkloosheid. Dit is een daling van 32% ten opzichte van 2018 (3,1%).",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van de beroepsbevolking",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Het percentage langdurig werklozen vertegenwoordigt het percentage mensen dat 12 maanden of langer werkloos is binnen de beroepsbevolking. De leeftijdsgroep in focus is 15-74 jaar oud.",
+  "textNote": "Het percentage langdurig werklozen is het percentage van de beroepsbevolking tussen 15 en 74 jaar dat al 12 maanden of langer werkloos is.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Klik voor meer info"

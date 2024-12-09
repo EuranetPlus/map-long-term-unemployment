@@ -1,12 +1,12 @@
 {
-  "heading": "Ali je dolgotrajna brezposelnost problem v EU27?",
-  "subheading": "Leta 2023 je bilo v povprečju 2,1 % delovne sile v EU27 brezposelnih 12 mesecev ali več. To pomeni 32-odstotni padec glede na raven iz leta 2018 (3,1 %).",
+  "heading": "Ali je dolgotrajna brezposelnost resen problem v EU?",
+  "subheading": "Leta 2023 je bilo dolgotrajno brezposelnih v povprečju 2,1 % delovno aktivnega prebivalstva 27 držav članic.  To predstavlja 32-odstotni padec glede na leto 2018 (3,1 %).",
   "legend1": "Podatki niso na voljo",
   "tooltip1": "delovne sile",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Stopnja dolgotrajne brezposelnosti predstavlja odstotek oseb, ki so med delovno silo brezposelne 12 mesecev ali več. Starostna skupina v fokusu je 15-74 let.",
+  "textNote": "Stopnja dolgotrajne brezposelnosti je odstotek delovno aktivnega prebivalstva, starega od 15 do 74 let, ki je brezposeln 12 mesecev ali več.",
   "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"

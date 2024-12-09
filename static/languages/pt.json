@@ -1,12 +1,12 @@
 {
-  "heading": "O desemprego de longa duração é um problema na UE27?",
-  "subheading": "Em 2023, em média, 2,1% da força de trabalho na UE27 estava desempregada há 12 meses ou mais. Isso marca um declínio de 32% em comparação com o nível de 2018 (3,1%).",
+  "heading": "O desemprego de longa duração é um problema real na UE?",
+  "subheading": "Em 2023, uma média de 2,1% da população ativa dos 27 estados-membros foi afetada pelo desemprego de longa duração. Isso representa uma queda de 32% em comparação com 2018 (3,1%).",
   "legend1": "Não há dados disponíveis",
   "tooltip1": "da força de trabalho",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "A taxa de desemprego de longo prazo representa a porcentagem de pessoas desempregadas por 12 meses ou mais dentro da força de trabalho. A faixa etária em foco é de 15 a 74 anos.",
+  "textNote": "A taxa de desemprego de longa duração é a porcentagem da população ativa com idade entre 15 e 74 anos que está desempregada há 12 meses ou mais.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

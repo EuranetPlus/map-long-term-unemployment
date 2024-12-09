@@ -1,12 +1,12 @@
 {
-  "heading": "¿Es el desempleo de larga duración un problema en la UE27?",
-  "subheading": "En 2023, el 2,1 % de la población activa de la UE27 estuvo desempleada durante 12 meses o más, lo que supone una disminución del 32 % en comparación con el nivel de 2018 (3,1 %).",
+  "heading": "¿Es el desempleo de larga duración un problema real en la UE?",
+  "subheading": "En 2023, una media del 2,1% de la población activa de los 27 Estados miembros se vio afectada por el desempleo de larga duración, lo que supone una reducción del 32% con respecto a 2018 (3,1%).",
   "legend1": "No hay datos disponibles",
   "tooltip1": "de la fuerza laboral",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "La tasa de desempleo de larga duración representa el porcentaje de personas desempleadas durante 12 meses o más dentro de la fuerza laboral. El grupo de edad en cuestión es el de 15 a 74 años.",
+  "textNote": "La tasa de desempleo de larga duración es el porcentaje de la población activa de entre 15 y 74 años que ha estado desempleada durante 12 meses o más.",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Haga clic para más información"

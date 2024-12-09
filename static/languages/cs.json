@@ -1,12 +1,12 @@
 {
-  "heading": "Je dlouhodobá nezaměstnanost problémem v EU27?",
-  "subheading": "V roce 2023 bylo v průměru 2,1 % pracovní síly v EU27 nezaměstnaných 12 měsíců nebo déle. To znamená 32% pokles ve srovnání s úrovní z roku 2018 (3,1 %).",
+  "heading": "Je dlouhodobá nezaměstnanost skutečným problémem v EU?",
+  "subheading": "V roce 2023 bylo v průměru 2,1 % práceschopného obyvatelstva 27 členských států postiženo dlouhodobou nezaměstnaností.  To představuje pokles o 32 % oproti roku 2018 (3,1 %).",
   "legend1": "Nejsou k dispozici žádné údaje",
   "tooltip1": "pracovní síly",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Míra dlouhodobé nezaměstnanosti představuje procento lidí nezaměstnaných po dobu 12 měsíců nebo déle v rámci pracovní síly. Zaměřená věková skupina je 15–74 let.",
+  "textNote": "Míra dlouhodobé nezaměstnanosti je procento pracující populace ve věku 15 až 74 let, která je nezaměstnaná 12 měsíců nebo déle.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=cs",
   "textCountryClick": "Klikněte pro více informací"

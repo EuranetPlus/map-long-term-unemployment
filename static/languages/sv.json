@@ -1,12 +1,12 @@
 {
-  "heading": "Är långtidsarbetslöshet ett problem i EU27?",
-  "subheading": "År 2023 var i genomsnitt 2,1 % av arbetskraften i EU27 arbetslösa i 12 månader eller mer. Det är en minskning med 32 % jämfört med nivån från 2018 (3,1 %).",
+  "heading": "Är långtidsarbetslöshet en verklig fråga i EU?",
+  "subheading": "År 2023 drabbades i genomsnitt 2,1 % av den arbetande befolkningen i de 27 medlemsländerna av långtidsarbetslöshet.  Detta är en minskning med 32 % jämfört med 2018 (3,1 %).",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "av arbetskraften",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Långtidsarbetslösheten representerar andelen personer som är arbetslösa i 12 månader eller mer inom arbetskraften. Åldersgruppen i fokus är 15-74 år.",
+  "textNote": "Långtidsarbetslösheten är andelen av den yrkesverksamma befolkningen mellan 15 och 74 år som har varit arbetslös i 12 månader eller mer.",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Klicka för mer info"
