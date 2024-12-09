@@ -1,12 +1,12 @@
 {
-  "heading": "Is long-term unemployment an issue in the EU27?",
-  "subheading": "In 2023 on average 2.1% of the labour force in the EU27 were unemployed for 12 months or more. This marks a 32% decline compared to the level from 2018 (3.1%).",
+  "heading": "Is long-term unemployment a real issue in the EU?",
+  "subheading": "In 2023, an average of 2.1% of the working population of the 27 member states was affected by long-term unemployment.  This represents a fall of 32% compared to 2018 (3.1%).",
   "legend1": "No data available",
   "tooltip1": "of labour force",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "The long-term unemployment rate represents the percentage of people unemployed for 12 months or more within the labour force. The age group in focus is 15-74 years old.",
+  "textNote": "The long-term unemployment rate is the percentage of the working population aged between 15 and 74 who have been unemployed for 12 months or more.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Click for more info"
