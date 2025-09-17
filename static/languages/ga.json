@@ -1,13 +1,13 @@
 {
-  "heading": "An fíorcheist í an dífhostaíocht fhadtéarmach san AE?",
-  "subheading": "In 2023, bhí tionchar ag dífhostaíocht fhadtéarmach ar 2.1% ar an meán de dhaonra oibre na 27 mBallstát.  Is ionann é seo agus titim 32% i gcomparáid le 2018 (3.1%).",
+  "heading": "An fadhb fíor í an dífhostaíocht fhadtéarmach san AE?",
+  "subheading": "Sa bhliain 2023, bhí tionchar ag dífhostaíocht fhadtéarmach ar mheán de 2.1% de dhaonra oibre na 27 ballstát. Léiríonn sé seo titim 32% i gcomparáid le 2018 (3.1%).",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "den fhórsa saothair",
+  "tooltip1": "den lucht saothair",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Is é an ráta dífhostaíochta fadtéarmach ná an céatadán den daonra oibre idir 15 agus 74 bliain d’aois a bhí dífhostaithe le 12 mhí nó níos mó.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=ga",
+  "textNote": "Is é an ráta dífhostaíochta fadtéarmach an céatadán den daonra oibre idir 15 agus 74 bliain d'aois atá dífhostaithe ar feadh 12 mhí nó níos mó.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

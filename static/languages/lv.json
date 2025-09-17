@@ -1,13 +1,13 @@
 {
   "heading": "Vai ilgtermiņa bezdarbs ir reāla problēma ES?",
-  "subheading": "2023. gadā ilgstošais bezdarbs skāra vidēji 2,1% no 27 dalībvalstu strādājošajiem iedzīvotājiem.  Tas ir par 32% mazāks nekā 2018. gadā (3,1%).",
-  "legend1": "Nav pieejami dati",
+  "subheading": "2023. gadā vidēji 2,1% no 27 dalībvalstu darbspējīgajiem iedzīvotājiem bija ilgstošs bezdarbs. Tas ir par 32% mazāk nekā 2018. gadā (3,1%).",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "darbaspēka",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Ilgtermiņa bezdarba līmenis ir procentuālā daļa no darbaspējīgajiem iedzīvotājiem vecumā no 15 līdz 74 gadiem, kuri ir bijuši bezdarbnieki 12 mēnešus vai ilgāk.",
+  "textNote": "Ilgtermiņa bezdarba līmenis ir to darbspējīgo iedzīvotāju procentuālā daļa vecumā no 15 līdz 74 gadiem, kuri ir bijuši bez darba 12 mēnešus vai ilgāk.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

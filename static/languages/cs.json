@@ -1,13 +1,13 @@
 {
-  "heading": "Je dlouhodobá nezaměstnanost skutečným problémem v EU?",
-  "subheading": "V roce 2023 bylo v průměru 2,1 % práceschopného obyvatelstva 27 členských států postiženo dlouhodobou nezaměstnaností.  To představuje pokles o 32 % oproti roku 2018 (3,1 %).",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Je dlouhodobá nezaměstnanost v EU skutečným problémem?",
+  "subheading": "V roce 2023 bylo dlouhodobou nezaměstnaností postiženo průměrně 2,1 % produktivní populace 27 členských států. To představuje pokles o 32 % ve srovnání s rokem 2018 (3,1 %).",
+  "legend1": "Žádné údaje k dispozici",
   "tooltip1": "pracovní síly",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Míra dlouhodobé nezaměstnanosti je procento pracující populace ve věku 15 až 74 let, která je nezaměstnaná 12 měsíců nebo déle.",
+  "textNote": "Míra dlouhodobé nezaměstnanosti je procento produktivní populace ve věku 15 až 74 let, která je nezaměstnaná 12 měsíců nebo déle.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }

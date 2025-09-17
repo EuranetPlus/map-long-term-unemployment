@@ -1,13 +1,13 @@
 {
-  "heading": "Il-qgħad fit-tul huwa kwistjoni reali fl-UE?",
-  "subheading": "Fl-2023, medja ta’ 2.1% tal-popolazzjoni tax-xogħol tas-27 stat membru kienet affettwata minn qgħad fit-tul.  Dan jirrappreżenta tnaqqis ta’ 32% meta mqabbel mal-2018 (3.1%).",
-  "legend1": "Ebda data disponibbli",
+  "heading": "Il-qgħad fit-tul huwa problema reali fl-UE?",
+  "subheading": "Fl-2023, medja ta’ 2.1% tal-popolazzjoni attiva tas-27 stat membru kienet affettwata minn qgħad fit-tul. Dan jirrappreżenta tnaqqis ta’ 32% meta mqabbel mal-2018 (3.1%).",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "tal-forza tax-xogħol",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Ir-rata ta' qgħad fit-tul hija l-perċentwal tal-popolazzjoni tax-xogħol ta' bejn il-15 u l-74 sena li ilhom bla xogħol għal 12-il xahar jew aktar.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Ir-rata tal-qgħad fit-tul hija l-perċentwal tal-popolazzjoni li taħdem bejn il-15 u l-74 sena li ilhom qiegħda għal 12-il xahar jew aktar.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

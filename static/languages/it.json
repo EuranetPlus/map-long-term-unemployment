@@ -1,6 +1,6 @@
 {
   "heading": "La disoccupazione di lunga durata è un problema reale nell'UE?",
-  "subheading": "Nel 2023, una media del 2,1% della popolazione attiva dei 27 Stati membri è stata interessata dalla disoccupazione di lunga durata. Ciò rappresenta un calo del 32% rispetto al 2018 (3,1%).",
+  "subheading": "Nel 2023, in media il 2,1% della popolazione attiva dei 27 Stati membri era interessata dalla disoccupazione di lunga durata, con un calo del 32% rispetto al 2018 (3,1%).",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "della forza lavoro",
   "textSourceDescription": "Fonte",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nota",
   "textNote": "Il tasso di disoccupazione di lunga durata è la percentuale della popolazione attiva di età compresa tra 15 e 74 anni che è disoccupata da 12 mesi o più.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

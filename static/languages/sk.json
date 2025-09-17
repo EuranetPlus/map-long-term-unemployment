@@ -1,13 +1,13 @@
 {
   "heading": "Je dlhodobá nezamestnanosť skutočným problémom v EÚ?",
-  "subheading": "V roku 2023 bolo dlhodobo nezamestnaných v priemere 2,1 % práceschopnej populácie 27 členských štátov.  To predstavuje pokles o 32 % v porovnaní s rokom 2018 (3,1 %).",
+  "subheading": "V roku 2023 bolo dlhodobou nezamestnanosťou postihnutých priemerne 2,1 % pracujúcej populácie 27 členských štátov. To predstavuje pokles o 32 % v porovnaní s rokom 2018 (3,1 %).",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "pracovnej sily",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Miera dlhodobej nezamestnanosti je percento pracujúceho obyvateľstva vo veku od 15 do 74 rokov, ktoré je nezamestnané 12 mesiacov alebo dlhšie.",
+  "textNote": "Miera dlhodobej nezamestnanosti je percento pracujúcej populácie vo veku 15 až 74 rokov, ktorá je nezamestnaná 12 mesiacov alebo dlhšie.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=sk",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"
 }
